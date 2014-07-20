@@ -12,5 +12,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.print("1212341234");
+        System.out.println("DaterXiaoFeng");
     }
 }
